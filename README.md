@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @enosigunza
 - 👀 I’m interested in artificial intelligence and software engineering 
 - 🌱 I’m currently learning machine learning and data science 
-- 📫 How to reach me via enossigunza@gmail.com
+- 📫 reach me via enossigunza@gmail.com
 
 <!---
 enosigunza/enosigunza is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
